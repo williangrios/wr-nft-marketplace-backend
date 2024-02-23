@@ -1,5 +1,5 @@
 {
-  "name": "wrnft-marketplace",
+  "name": "wrnft-marketplace-backend",
   "version": "1.0.0",
   "description": "WRNFT marketplace built by Willian Rios",
   "main": "index.js",
